@@ -1,6 +1,12 @@
-# CUDA & C++ Performance Lab
 
+# CUDA & C++ Performance Lab
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 > An Aggie Coding Club project for learning C++, the CUDA stack, and how to make code *fast*.
+<img width="1805" height="1024" alt="image" src="https://github.com/user-attachments/assets/15f5e843-39e8-44c3-b2ca-52e54f930e34" />
 
 ## About
 
