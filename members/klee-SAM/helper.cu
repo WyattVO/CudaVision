@@ -32,3 +32,10 @@ namespace cv {  // A namespace groups names together; we call this function as c
         #endif  // Ends the #ifdef / #else block
     }
 }
+
+
+/**
+ * g++ compiling for CPU testing:
+ * g++ <filename> -O2 -g -Wall -Wextra -o build/<outputname>
+ * g++ exercise4CPU.cpp -O2 -g -Wall -Wextra -o build/e4
+ */
