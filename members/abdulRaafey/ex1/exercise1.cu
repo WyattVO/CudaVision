@@ -1,1 +1,10 @@
-// abdulRaafey ex1
+cv::where_am_I("CPU");
+
+thrust::universal_vector<int> vec{1};
+thrust::for each(thrust::device, vec.begin(), vec.end(),
+    {} __host__ __device__ (int) { cv::where_am_I("GPU"); });
+
+thrust::for_each(thrust::host, vec.begin(), vec.end(),
+    {} __host__ __device__ (int) { cv:where_am_I("CPU")});
+
+cv::where_am_I("CPU");
